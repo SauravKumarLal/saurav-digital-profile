@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" href="/logo.png" type="image/png" />
-        <title>Saurav's Portfolio</title>
+        <title>Saurav Lal | Software Engineer</title>
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
