@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/logo.png" type="image/png" />
+        <link rel="icon" href="https://sauravkrlal.netlify.app/logo.png" type="image/png" />
         <title>Saurav Lal | Software Engineer</title>
       </head>
       <body
